@@ -6,8 +6,7 @@
 - 💬 Ask me anything on :[LinkedIn](https://www.linkedin.com/in/shakirahmad14/)
 - 📫 How to reach me: Shakirmca16@gmail.com
 
-
-Link to [Twitter](https://twitter.com/sha_k_ir)
+- Link to [Twitter](https://twitter.com/sha_k_ir)
 <!--
 **Sheikh-Shakir/sheikh-shakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

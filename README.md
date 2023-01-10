@@ -1,5 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on frontend web Application 
+- 🚩 Kulgam, Jammu and Kashmir
+- 📚 completed  MCA from University of Kashmir
+- 🔭 I’m currently working on frontend web Application 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on
 - 💬 Ask me anything on :[LinkedIn](https://www.linkedin.com/in/shakirahmad14/)

@@ -5,24 +5,10 @@
 - 📚 completed  MCA from University of Kashmir<br>
 - 🔭 I’m currently working on frontend web Application <br>
 - 🌱 I’m currently learning React<br>
-- 💬 Ask me anything on :[LinkedIn](https://www.linkedin.com/in/shakirahmad14/) <br>
+- 💬 Ask me anything on :<a href="https://www.linkedin.com/in/shakirahmad14/">LinkedIn </a> <br>
 - 📫 How to reach me: Shakirmca16@gmail.com <br>
+- 💬 Link to <a href="https://www.linkedin.com/in/shakirahmad14/">Twitter </a> <br>
 
-- Link to [Twitter](https://twitter.com/sha_k_ir)
-<!--
-**Sheikh-Shakir/sheikh-shakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 🌐 Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fFbZTuu6) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shakir_003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakirahmad14) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shakir-Ahmad-92) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com//users/18274824/18-shakir-ahmad) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sha_k_ir) 

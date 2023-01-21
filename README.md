@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=sha_k_ir)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=sha_k_ir&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

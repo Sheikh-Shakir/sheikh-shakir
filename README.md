@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shakir Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Kulgam, India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-shakir&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-shakir" /> </p>
-- 🚩 Kulgam, Jammu and Kashmir
-- 📚 completed  MCA from University of Kashmir
-- 🔭 I’m currently working on frontend web Application 
-- 🌱 I’m currently learning React
-- 💬 Ask me anything on :[LinkedIn](https://www.linkedin.com/in/shakirahmad14/)
-- 📫 How to reach me: Shakirmca16@gmail.com
+- 🚩 Kulgam, Jammu and Kashmir<br>
+- 📚 completed  MCA from University of Kashmir<br>
+- 🔭 I’m currently working on frontend web Application <br>
+- 🌱 I’m currently learning React<br>
+- 💬 Ask me anything on :[LinkedIn](https://www.linkedin.com/in/shakirahmad14/) <br>
+- 📫 How to reach me: Shakirmca16@gmail.com <br>
 
 - Link to [Twitter](https://twitter.com/sha_k_ir)
 <!--

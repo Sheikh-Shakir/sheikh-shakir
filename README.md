@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sheikh-shakir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=sha_k_ir)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=sha_k_ir&theme=dracula&icon=hashtag&time=true&response=true&border=true"/></a>
+<img src="https://gtce.itsvg.in/api?username=sheikh-shakir&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

@@ -22,10 +22,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikh-shakir&theme=monokai&hide_border=false" alt="sheikh-shakir" /></p></div>
 <p><image align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikh-shakir&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sheikh-shakir"/></p>
 
-[![Shakir Ahamad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sheikh_shakir)](https://github.com/sheikh-shakir)
+# 📊 WakaTime Stats:
+<div>
+  <a href="https://wakatime.com/@3a94311a-011d-457e-9e36-635e28c9128f"><img src="https://wakatime.com/badge/user/3a94311a-011d-457e-9e36-635e28c9128f.svg" alt="Total time coded since Jan 21 2023" /></a>
+</div>
 
 
-<br>
+<br><br>
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikh-shakir" alt="sheikh-shakir" /></a> </p>

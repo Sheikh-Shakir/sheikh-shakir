@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React<br>
 - 💬 Ask me anything on :<a href="https://www.linkedin.com/in/shakirahmad14/">LinkedIn </a> <br>
 - 📫 How to reach me: Shakirmca16@gmail.com <br>
-- 💬 Link to <a href="https://www.linkedin.com/in/shakirahmad14/">Twitter </a> <br>
+- 💬 Link to <a href="https://twitter.com/Sha_k_ir">Twitter </a> <br>
 
 
 ## 🌐 Connect with me:
